@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap');
+
+p, a, button, li, b {
+    font-family: 'Oxygen', sans-serif;
+    color: #28306A;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Pattaya', sans-serif;
+    color: #28306A;
+}
+
+header {
+    background: #28306A;
+    text-align: center;
+}
+
+header h2 {
+    color: #f5f5f5;
+    font-size: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+}
+
+main #num1 .container .row {
+    text-align: center;
+    padding: 10px 10px;
+    display: flex;
+    background: #EFABA0;
+    align-items: center;
+}
+
+main #num1 .container .row img {
+    width: 100%;
+}
+
+main #num1 .container .row h3 {
+    color: #f5f5f5;
+    font-size: 35px;
+}
+
+main #num1 .container .row p {
+    color: #f5f5f5;
+    font-size: 20px;
+}
+
+
+main #num2 .container .row {
+    text-align: center;
+    padding: 10px 10px;
+    display: flex;
+    background: linear-gradient(#F7D4CE,#f5f5f5, #60679e);
+    align-items: center;
+}
+
+main #num2 .container .row img {
+    width: 100%;
+}
+main #num2 .container .row h3 {
+    font-size: 35px;
+}
+
+main #num2 .container .row p {
+    font-size: 20px;
+}
+
+
+main #num3 .container .row {
+    text-align: center;
+    padding: 10px 10px;
+    display: flex;
+    background: #28306A;
+    align-items: center;
+}
+
+main #num3 .container .row img {
+    width: 100%;
+}
+
+main #num3 .container .row h3 {
+    color: #f5f5f5;
+    font-size: 35px;
+}
+
+main #num3 .container .row p {
+    color: #f5f5f5;
+    font-size: 20px;
+}
+
+
+main #num4 .container .row {
+    text-align: center;
+    padding: 10px 10px;
+    display: flex;
+    background: linear-gradient(#E8CB48,#9DB7BF,#7D9299,#7D9299);
+    align-items: center;
+}
+
+main #num4 .container .row img {
+    width: 100%;
+}
+
+main #num4 .container .row h3 {
+    color: #f5f5f5;
+    font-size: 35px;
+}
+
+main #num4 .container .row p {
+    color: #f5f5f5;
+    font-size: 20px;
+}
+
+
+main #num5 .container .row {
+    text-align: center;
+    padding: 10px 10px;
+    display: flex;
+    background: linear-gradient(#E6675E, #BF564E, #99453F, #592825);
+    align-items: center;
+}
+
+main #num5 .container .row img {
+    width: 100%;
+}
+
+main #num5 .container .row h3 {
+    color: #f5f5f5;
+    font-size: 35px;
+}
+
+main #num5 .container .row p {
+    color: #f5f5f5;
+    font-size: 20px;
+}
+
+
+main #num6 .container .row {
+    text-align: center;
+    padding: 10px 10px;
+    display: flex;
+    background: linear-gradient(#a09a9a, #f13022, #0a0100);
+    align-items: center;
+}
+
+main #num6 .container .row img {
+    width: 100%;
+}
+
+main #num6 .container .row h3 {
+    color: #f5f5f5;
+    font-size: 35px;
+}
+
+main #num6 .container .row p {
+    color: #f5f5f5;
+    font-size: 20px;
+}
+
+footer {
+    position: fixed;
+    background: #28306A;
+    width: 60px;
+    top: 50%;
+    z-index: 90;
+    text-align: center;
+    padding: 10px 10px;
+}
+
+footer img {
+    width: 90%;
+}
